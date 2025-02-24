@@ -1,4 +1,4 @@
-# Learning React.js: Understanding Components
+# Chapter 1: Understanding Components
 
 ## Introduction to Components
 React.js is built around the concept of **components**, which are the fundamental building blocks of any React application. Components allow developers to break down complex user interfaces into smaller, reusable, and manageable parts. This modular approach makes it easier to develop, maintain, and scale applications.
